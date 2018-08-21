@@ -1,7 +1,7 @@
 # HotelReservationSchema
 My SG Milestone 8 summative:  Hotel Reservation Schema
 
-I demonstrated my proficiency in building a relational database structure in this project.  I used MySQL Workbench extensively, wrote a database creation script, and provided an SQL script with various statements proving the functionality of the database.
+I demonstrated my proficiency in building a relational database structure in this project.  I used MySQL Workbench extensively, wrote an SQL database creation script, and provided an SQL script with various statements proving the functionality of the database.
 
 ________________________________________________________________________________________________________________
 
